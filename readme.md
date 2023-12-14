@@ -6,11 +6,11 @@ This Node.js and Express project is designed to showcase best practices in code 
 
 ## 📋 Table of Contents
 
-[Prisma and Docker](#prisma-and-docker)
-[Decoupling Code](#decoupling-code)
-[Factory Pattern](#factory-pattern)
-[Adapter Pattern](#adapter-pattern)
-[JWT Authentication](#jwt-authentication)
+[Prisma and Docker](#prisma-and-docker) <br />
+[Decoupling Code](#decoupling-code)<br />
+[Factory Pattern](#factory-pattern)<br />
+[Adapter Pattern](#adapter-pattern)<br />
+[JWT Authentication](#jwt-authentication)<br />
 
 ## Prisma and Docker
 
